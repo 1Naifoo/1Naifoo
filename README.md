@@ -12,7 +12,7 @@
 
 Software Engineer focused on full-stack web and mobile systems (ASP.NET, Laravel &amp; Flutter). Experienced in building secure APIs, relational database design, and diving into Machine Learning 🚶
 
-🌱 &nbsp;I'm currently learning **Mobile Development using Flutter**  
+🌱 &nbsp;I'm currently **Improving my Mobile Development skills using Flutter**  
 💬 &nbsp;Ask me about **Flutter, ASP.NET MVC, Laravel, RESTful APIs**  
 😄 &nbsp;Pronouns: **He/Him**  
 ⚡ &nbsp;Fun fact: **I managed to boost an ML model's accuracy from 59% to 68% just by tuning the estimators😶**
