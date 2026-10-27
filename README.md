@@ -1,6 +1,7 @@
+~~~markdown
 <p align="center">
   <a href="https://github.com/1Naifoo">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Naif" alt="Hello! I&#39;m Naif" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Naif" alt="Hello! I'm Naif" />
   </a>
 </p>
 
@@ -12,7 +13,7 @@
 
 Software Engineering graduate (UNITEN, GPA 3.82, Dean's List) building full-stack web and mobile systems with **ASP.NET, Flutter, Laravel & React** across healthcare, e-commerce, and hospitality. I enjoy RESTful API design, relational database architecture, and shipping things that work in production 🚶
 
-🔭 &nbsp;Currently building **ScanMenu** (QR-code digital menus) and a **Kids Subscription Box** e-commerce platform for a client  
+🔭 &nbsp;Currently building **ScanMenu** (QR-code digital menus) and an **AI-powered Travel Agency Dashboard**  
 🌱 &nbsp;Improving my **Flutter** and **React** skills  
 💬 &nbsp;Ask me about **ASP.NET MVC, Flutter, Laravel, Supabase, RESTful APIs**  
 😄 &nbsp;Pronouns: **He/Him**  
@@ -30,10 +31,9 @@ Software Engineering graduate (UNITEN, GPA 3.82, Dean's List) building full-stac
 
 | Project | What it is | Stack |
 |---|---|---|
-| **ScanMenu** | QR-code digital menu platform with a multi-tenant admin panel | React, Supabase (Postgres, RLS) |
-| **Medical Appointment System** | Healthcare app with 4 roles, Stripe payments, and video consultations | Flutter, Laravel, Stripe, Jitsi |
-| **Kids Subscription Box Platform** | Client e-commerce platform — full SRS, payment and shipping design | ASP.NET Core, Oracle, Moyasar |
-| **Smart Energy Analytics** | Dashboards on energy data from 13 Malaysian states | Tableau |
+| **Travel Agency Dashboard — AI Trip Planner** | Full-stack admin dashboard with real-time KPIs, role-based access, dynamic trip creation, and AI-generated travel plans | React, React Router, TypeScript, Tailwind CSS, Appwrite, Gemini API |
+| **ScanMenu** | QR-code digital menu platform with a multi-tenant backend and responsive admin panel for managing restaurant menus | React, Supabase, PostgreSQL, Row-Level Security |
+| **Medical Appointment System** | Healthcare platform with 4 user roles, appointment booking, Stripe payments, and real-time video consultations | Flutter, Laravel, REST APIs, Stripe, Jitsi Meet |
 
 ### 🛠️ Tech Stack
 
@@ -114,3 +114,4 @@ CCNA (Cisco) · IELTS · Google AI Essentials · Intro to Git & GitHub (Google) 
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/1Naifoo">1Naifoo</a></i></p>
+~~~
